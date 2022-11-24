@@ -1,5 +1,6 @@
 # stepik-id-printer
-![jusan_logo](/https://ucarecdn.com/02b8ff49-8f2b-4ce9-be84-7d4bdc6b9b67/)
+![jusan_logo](https://ucarecdn.com/02b8ff49-8f2b-4ce9-be84-7d4bdc6b9b67/)
+
 Это проект для вывода моего персонального идентификатора на образовательной платформе ```stepik.org```
 ## Возможности
 Данный проект имеет следующей функционал.
