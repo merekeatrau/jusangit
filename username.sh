@@ -1,1 +1,1 @@
-echo "Mereke Atrauov"
+echo "my name is Mereke Atrauov"
